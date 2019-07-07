@@ -13,7 +13,7 @@
 * Run groupFaces.py
 * Run individualFaces.py
 
-### See a demo on - 
+### See complete tutorial on - 
 [Video-Link](https://github.com/guptasoumya26/Detect-Faces-in-Individual-and-Group-Images/raw/master/Demo.mp4)
  ---
  ### Contributors
